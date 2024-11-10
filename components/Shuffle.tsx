@@ -1,6 +1,6 @@
 import React from "react";
-import { AnimatedTooltip } from "./ui/animated-tooltip";
-import { people } from "@/app/data/data";
+// import { AnimatedTooltip } from "./ui/animated-tooltip";
+// import { people } from "@/app/data/data";
 import CardDemo from "./blocks/cards-demo-1";
 import Image from "next/image";
 // import { AnimatedModal } from "./AnimatedModal";
