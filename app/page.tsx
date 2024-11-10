@@ -8,13 +8,13 @@ import Shuffle from "@/components/Shuffle";
 import { SmoothScrollHero } from "@/components/SmoothScrollHero";
 import Testimonials from "@/components/Testimonials";
 import { AppleCardsCarouselDemo } from "@/components/ui/applecard";
-import { BackgroundGradientAnimation } from "@/components/ui/background-gradient-animation";
+// import { BackgroundGradientAnimation } from "@/components/ui/background-gradient-animation";
 import { Cover } from "@/components/ui/cover";
 import { LinkPreview } from "@/components/ui/link-preview";
 import { ShootingStars } from "@/components/ui/shooting-stars";
 import { Spotlight } from "@/components/ui/spotlight";
 import { StarsBackground } from "@/components/ui/stars-background";
-import Image from "next/image";
+// import Image from "next/image";
 
 export default function Home() {
   return (

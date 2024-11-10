@@ -10,7 +10,7 @@ import {
 import { SiSpacex } from "react-icons/si";
 import { FiArrowRight, FiMapPin } from "react-icons/fi";
 import { useRef } from "react";
-import { ReactLenis } from "lenis/dist/lenis-react.js";
+// import { ReactLenis } from "lenis/dist/lenis-react.js";
 
 export const SmoothScrollHero = () => {
   return (
@@ -154,7 +154,7 @@ const ParallaxImg = ({
 
   const { scrollYProgress } = useScroll({
     target: ref,
-    // @ts-ignore
+
     offset: [`${start}px end`, `end ${end * -1}px`],
   });
 

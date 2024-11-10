@@ -1,4 +1,4 @@
-import Image from "next/image";
+// import Image from "next/image";
 import React from "react";
 import { AnimatedTooltip } from "./ui/animated-tooltip";
 import { people } from "@/app/data/data";

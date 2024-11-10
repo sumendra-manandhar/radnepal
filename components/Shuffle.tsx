@@ -2,8 +2,9 @@ import React from "react";
 import { AnimatedTooltip } from "./ui/animated-tooltip";
 import { people } from "@/app/data/data";
 import CardDemo from "./blocks/cards-demo-1";
-import { AnimatedModal } from "./AnimatedModal";
-import { AppleCardsCarouselDemo } from "./ui/applecard";
+import Image from "next/image";
+// import { AnimatedModal } from "./AnimatedModal";
+// import { AppleCardsCarouselDemo } from "./ui/applecard";
 
 const Shuffle = () => {
   return (
@@ -59,7 +60,7 @@ const Shuffle = () => {
               </div>
             </div>
             <div className="w-full lg:w-1/2 p-6 bg-red-400" data-path="0.1.0.1">
-              <img
+              <Image
                 className="block mx-auto"
                 src="gradia-assets/images/hero/profiles.png"
                 alt=""
@@ -80,7 +81,7 @@ const Shuffle = () => {
         className="relative pt-20 pb-20 lg:pb-32 overflow-hidden"
         data-path="0"
       >
-        <img
+        <Image
           className="absolute top-0 right-0"
           src="saturn-assets/images/features/star-element-right.png"
           alt=""
@@ -136,7 +137,7 @@ const Shuffle = () => {
                     data-path="0.1.0.0.1.0.0"
                   >
                     So, how do you know which is the right tax software agency
-                    for your company? Well, you can't go wrong with choosing
+                    for your company? Well, you cant go wrong with choosing
                     Saturn.
                   </p>
                 </div>
@@ -367,8 +368,6 @@ const Shuffle = () => {
           </div>
         </div>
       </section>
-
-     
     </>
   );
 };

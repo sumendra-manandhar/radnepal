@@ -1,8 +1,9 @@
 "use client"; // Add this directive at the very top of the file
 
-import React, { MutableRefObject, useRef, useState } from "react";
+import React, { MutableRefObject, useState } from "react";
 import { motion } from "framer-motion";
 import { twMerge } from "tailwind-merge";
+import Image from "next/image";
 
 export const DragCards = () => {
   const [selectedImage, setSelectedImage] = useState<string | null>(null);
@@ -159,7 +160,7 @@ const Card = ({
     let maxZIndex = -Infinity;
 
     els.forEach((el) => {
-      let zIndex = parseInt(
+      const zIndex = parseInt(
         window.getComputedStyle(el).getPropertyValue("z-index")
       );
 
@@ -204,7 +205,7 @@ const Modal = ({ src, closeModal }: ModalProps) => (
     className="fixed inset-0 z-50 flex items-center justify-center bg-black bg-opacity-80"
     onClick={closeModal}
   >
-    <img
+    <Image
       src={src}
       alt="Enlarged image"
       className="max-w-[70vw] max-h-[70vh] object-contain"
