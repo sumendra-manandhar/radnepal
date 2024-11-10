@@ -83,7 +83,9 @@ const Shuffle = () => {
       >
         <Image
           className="absolute top-0 right-0"
-          src="saturn-assets/images/features/star-element-right.png"
+          src="/saturn-assets/images/features/star-element-right.png"
+          width={200}
+          height={200}
           alt=""
           data-config-id="img-5b8a8b-1"
           data-path="0.0"
