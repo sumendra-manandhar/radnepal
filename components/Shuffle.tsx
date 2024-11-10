@@ -228,145 +228,144 @@ const Shuffle = () => {
             </div>
           </div>
         </div>
-      </section>
-
-      <section>
-        <div
-          data-section-id="1"
-          data-share=""
-          data-category="ticker"
-          data-component-id="869c19af_04_awz"
-          //   style="height:600px;"
-          data-path="0"
-        >
+        <section>
           <div
-            // className="absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 w-full"
-            data-path="0.0"
+            data-section-id="1"
+            data-share=""
+            data-category="ticker"
+            data-component-id="869c19af_04_awz"
+            //   style="height:600px;"
+            data-path="0"
           >
             <div
-              className="bg-black py-6 transform -rotate-6 translate-y-12 relative z-50"
-              data-path="0.0.0"
+              // className="absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 w-full"
+              data-path="0.0"
             >
               <div
-                className="flex items-center justify-center gap-3 animate-ticker animation-linear"
-                data-path="0.0.0.0"
+                className="bg-black py-6 transform -rotate-6 translate-y-12 relative z-50"
+                data-path="0.0.0"
               >
-                <p
-                  className="tracking-tight text-white text-5xl font-medium whitespace-nowrap"
-                  data-config-id="txt-2c6bc1-1"
-                  data-path="0.0.0.0.0"
-                >
-                  WEB DESIGN
-                </p>
                 <div
-                  className="w-5 h-5 rounded-full bg-orange-400"
-                  data-path="0.0.0.0.1"
-                ></div>
-                <p
-                  className="tracking-tight text-white text-5xl font-medium whitespace-nowrap"
-                  data-config-id="txt-2c6bc1-2"
-                  data-path="0.0.0.0.2"
+                  className="flex items-center justify-center gap-3 animate-ticker animation-linear"
+                  data-path="0.0.0.0"
                 >
-                  UI/UX DESIGN
-                </p>
-                <div
-                  className="w-5 h-5 rounded-full bg-orange-400"
-                  data-path="0.0.0.0.3"
-                ></div>
-                <p
-                  className="tracking-tight text-white text-5xl font-medium whitespace-nowrap"
-                  data-config-id="txt-2c6bc1-3"
-                  data-path="0.0.0.0.4"
-                >
-                  WEB DESIGN
-                </p>
-                <div
-                  className="w-5 h-5 rounded-full bg-orange-400"
-                  data-path="0.0.0.0.5"
-                ></div>
-                <p
-                  className="tracking-tight text-white text-5xl font-medium whitespace-nowrap"
-                  data-config-id="txt-2c6bc1-4"
-                  data-path="0.0.0.0.6"
-                >
-                  BRAND DESIGN
-                </p>
-                <div
-                  className="w-5 h-5 rounded-full bg-orange-400"
-                  data-path="0.0.0.0.7"
-                ></div>
-                <p
-                  className="tracking-tight text-white text-5xl font-medium whitespace-nowrap"
-                  data-config-id="txt-2c6bc1-5"
-                  data-path="0.0.0.0.8"
-                >
-                  UI/UX DESIGN
-                </p>
+                  <p
+                    className="tracking-tight text-white text-5xl font-medium whitespace-nowrap"
+                    data-config-id="txt-2c6bc1-1"
+                    data-path="0.0.0.0.0"
+                  >
+                    WEB DESIGN
+                  </p>
+                  <div
+                    className="w-5 h-5 rounded-full bg-orange-400"
+                    data-path="0.0.0.0.1"
+                  ></div>
+                  <p
+                    className="tracking-tight text-white text-5xl font-medium whitespace-nowrap"
+                    data-config-id="txt-2c6bc1-2"
+                    data-path="0.0.0.0.2"
+                  >
+                    UI/UX DESIGN
+                  </p>
+                  <div
+                    className="w-5 h-5 rounded-full bg-orange-400"
+                    data-path="0.0.0.0.3"
+                  ></div>
+                  <p
+                    className="tracking-tight text-white text-5xl font-medium whitespace-nowrap"
+                    data-config-id="txt-2c6bc1-3"
+                    data-path="0.0.0.0.4"
+                  >
+                    WEB DESIGN
+                  </p>
+                  <div
+                    className="w-5 h-5 rounded-full bg-orange-400"
+                    data-path="0.0.0.0.5"
+                  ></div>
+                  <p
+                    className="tracking-tight text-white text-5xl font-medium whitespace-nowrap"
+                    data-config-id="txt-2c6bc1-4"
+                    data-path="0.0.0.0.6"
+                  >
+                    BRAND DESIGN
+                  </p>
+                  <div
+                    className="w-5 h-5 rounded-full bg-orange-400"
+                    data-path="0.0.0.0.7"
+                  ></div>
+                  <p
+                    className="tracking-tight text-white text-5xl font-medium whitespace-nowrap"
+                    data-config-id="txt-2c6bc1-5"
+                    data-path="0.0.0.0.8"
+                  >
+                    UI/UX DESIGN
+                  </p>
+                </div>
               </div>
-            </div>
-            <div
-              className="bg-orange-400 py-6 transform rotate-6"
-              data-path="0.0.1"
-            >
               <div
-                className="flex items-center justify-center gap-3 animate-ticker animation-linear"
-                data-path="0.0.1.0"
+                className="bg-orange-400 py-6 transform rotate-6"
+                data-path="0.0.1"
               >
-                <p
-                  className="tracking-tight text-white text-5xl font-medium whitespace-nowrap"
-                  data-config-id="txt-2c6bc1-6"
-                  data-path="0.0.1.0.0"
-                >
-                  WEB DESIGN
-                </p>
                 <div
-                  className="w-5 h-5 rounded-full bg-white"
-                  data-path="0.0.1.0.1"
-                ></div>
-                <p
-                  className="tracking-tight text-white text-5xl font-medium whitespace-nowrap"
-                  data-config-id="txt-2c6bc1-7"
-                  data-path="0.0.1.0.2"
+                  className="flex items-center justify-center gap-3 animate-ticker animation-linear"
+                  data-path="0.0.1.0"
                 >
-                  UI/UX DESIGN
-                </p>
-                <div
-                  className="w-5 h-5 rounded-full bg-white"
-                  data-path="0.0.1.0.3"
-                ></div>
-                <p
-                  className="tracking-tight text-white text-5xl font-medium whitespace-nowrap"
-                  data-config-id="txt-2c6bc1-8"
-                  data-path="0.0.1.0.4"
-                >
-                  WEB DESIGN
-                </p>
-                <div
-                  className="w-5 h-5 rounded-full bg-white"
-                  data-path="0.0.1.0.5"
-                ></div>
-                <p
-                  className="tracking-tight text-white text-5xl font-medium whitespace-nowrap"
-                  data-config-id="txt-2c6bc1-9"
-                  data-path="0.0.1.0.6"
-                >
-                  BRAND DESIGN
-                </p>
-                <div
-                  className="w-5 h-5 rounded-full bg-white"
-                  data-path="0.0.1.0.7"
-                ></div>
-                <p
-                  className="tracking-tight text-white text-5xl font-medium whitespace-nowrap"
-                  data-config-id="txt-2c6bc1-10"
-                  data-path="0.0.1.0.8"
-                >
-                  UI/UX DESIGN
-                </p>
+                  <p
+                    className="tracking-tight text-white text-5xl font-medium whitespace-nowrap"
+                    data-config-id="txt-2c6bc1-6"
+                    data-path="0.0.1.0.0"
+                  >
+                    WEB DESIGN
+                  </p>
+                  <div
+                    className="w-5 h-5 rounded-full bg-white"
+                    data-path="0.0.1.0.1"
+                  ></div>
+                  <p
+                    className="tracking-tight text-white text-5xl font-medium whitespace-nowrap"
+                    data-config-id="txt-2c6bc1-7"
+                    data-path="0.0.1.0.2"
+                  >
+                    UI/UX DESIGN
+                  </p>
+                  <div
+                    className="w-5 h-5 rounded-full bg-white"
+                    data-path="0.0.1.0.3"
+                  ></div>
+                  <p
+                    className="tracking-tight text-white text-5xl font-medium whitespace-nowrap"
+                    data-config-id="txt-2c6bc1-8"
+                    data-path="0.0.1.0.4"
+                  >
+                    WEB DESIGN
+                  </p>
+                  <div
+                    className="w-5 h-5 rounded-full bg-white"
+                    data-path="0.0.1.0.5"
+                  ></div>
+                  <p
+                    className="tracking-tight text-white text-5xl font-medium whitespace-nowrap"
+                    data-config-id="txt-2c6bc1-9"
+                    data-path="0.0.1.0.6"
+                  >
+                    BRAND DESIGN
+                  </p>
+                  <div
+                    className="w-5 h-5 rounded-full bg-white"
+                    data-path="0.0.1.0.7"
+                  ></div>
+                  <p
+                    className="tracking-tight text-white text-5xl font-medium whitespace-nowrap"
+                    data-config-id="txt-2c6bc1-10"
+                    data-path="0.0.1.0.8"
+                  >
+                    UI/UX DESIGN
+                  </p>
+                </div>
               </div>
             </div>
           </div>
-        </div>
+        </section>
       </section>
     </>
   );
