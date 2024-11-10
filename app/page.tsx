@@ -1,8 +1,13 @@
 import { AnimatedModal } from "@/components/AnimatedModal";
+import { DragCards } from "@/components/DragCards";
+import { HoverImageLinks } from "@/components/HoverImageLinks";
 
 import { NavbarTop } from "@/components/Navbar";
 import Profilers from "@/components/Profilers";
+import Shuffle from "@/components/Shuffle";
+import { SmoothScrollHero } from "@/components/SmoothScrollHero";
 import Testimonials from "@/components/Testimonials";
+import { AppleCardsCarouselDemo } from "@/components/ui/applecard";
 import { BackgroundGradientAnimation } from "@/components/ui/background-gradient-animation";
 import { Cover } from "@/components/ui/cover";
 import { LinkPreview } from "@/components/ui/link-preview";
@@ -42,7 +47,13 @@ export default function Home() {
             </p>
           </div>
         </div>
+        <DragCards />
+        <HoverImageLinks />
+
+        <SmoothScrollHero />
         <AnimatedModal />
+        <Shuffle />
+        <AppleCardsCarouselDemo />
 
         <Profilers />
         <Testimonials />
