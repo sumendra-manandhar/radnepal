@@ -1,5 +1,6 @@
 import { AnimatedModal } from "@/components/AnimatedModal";
 import { DragCards } from "@/components/DragCards";
+import HeroSlider from "@/components/HeroSlider";
 import { HoverImageLinks } from "@/components/HoverImageLinks";
 
 // import { NavbarTop } from "@/components/Navbar";
@@ -29,6 +30,7 @@ export default function Home() {
 
       <div>
         {/* <NavbarTop /> */}
+        <HeroSlider />
 
         <div className="h-[90vh] w-full  rounded-md flex md:items-center md:justify-center bg-black/[0.96] antialiased bg-grid-white/[0.02] relative overflow-hidden">
           <Spotlight
