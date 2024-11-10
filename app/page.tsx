@@ -47,12 +47,12 @@ export default function Home() {
             </p>
           </div>
         </div>
+        <Shuffle />
         <DragCards />
         <HoverImageLinks />
 
         <SmoothScrollHero />
         <AnimatedModal />
-        <Shuffle />
         <AppleCardsCarouselDemo />
 
         <Profilers />

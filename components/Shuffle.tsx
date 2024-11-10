@@ -9,7 +9,7 @@ import Image from "next/image";
 const Shuffle = () => {
   return (
     <>
-      <section>
+      <section className="bg-neutral-950 p-4 md:p-8">
         <div className="container mx-auto px-4" data-path="0.1">
           <div
             className="flex flex-wrap items-center -m-6 pt-32 pb-36"
