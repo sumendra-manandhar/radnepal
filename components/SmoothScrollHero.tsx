@@ -7,8 +7,9 @@ import {
   useScroll,
   useTransform,
 } from "framer-motion";
-import { SiSpacex } from "react-icons/si";
-import { FiArrowRight, FiMapPin } from "react-icons/fi";
+// import { SiSpacex } from "react-icons/si";
+import { FiMapPin } from "react-icons/fi";
+// import { FiArrowRight, FiMapPin } from "react-icons/fi";
 import { useRef } from "react";
 // import { ReactLenis } from "lenis/dist/lenis-react.js";
 

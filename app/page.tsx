@@ -2,7 +2,7 @@ import { AnimatedModal } from "@/components/AnimatedModal";
 import { DragCards } from "@/components/DragCards";
 import { HoverImageLinks } from "@/components/HoverImageLinks";
 
-import { NavbarTop } from "@/components/Navbar";
+// import { NavbarTop } from "@/components/Navbar";
 import Profilers from "@/components/Profilers";
 import Shuffle from "@/components/Shuffle";
 import { SmoothScrollHero } from "@/components/SmoothScrollHero";
