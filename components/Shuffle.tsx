@@ -9,7 +9,7 @@ import Image from "next/image";
 const Shuffle = () => {
   return (
     <>
-      <section className="bg-neutral-950 p-4 md:p-8">
+      {/* <section className="bg-neutral-950 p-4 md:p-8">
         <div className="container mx-auto px-4" data-path="0.1">
           <div
             className="flex flex-wrap items-center -m-6 pt-32 pb-36"
@@ -71,14 +71,14 @@ const Shuffle = () => {
             </div>
           </div>
         </div>
-      </section>
+      </section> */}
 
       <section
         data-section-id="1"
         data-share=""
         data-category="features"
         data-component-id="4d2f33a1_04_awz"
-        className="relative pt-20 pb-20 lg:pb-32 overflow-hidden"
+        className="relative pt-20 pb-20 lg:pb-32 overflow-hidden bg-neutral-950 p-4 md:p-8"
         data-path="0"
       >
         <Image
